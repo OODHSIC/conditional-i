@@ -49,10 +49,10 @@ The 80 Million Tiny Images dataset seems to be suspended recently. We therefore 
 
 ## 3 Citation
 ```
-@InProceedings{wang2022NeurIPS,
+@inproceedings{wangout,
   title={Out-of-Distribution Detection via Conditional Kernel Independence Model},
   author={Wang, Yu and Zou, Jingjing and Lin, Jingyang and Ling, Qing and Pan, Yingwei and Yao, Ting and Mei, Tao},
-  booktitle={NeurIPS},
-  year={2022},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2022}
 }
 ```
